@@ -41,7 +41,7 @@ namespace BarzerkGame
             return true;
         }
 
-        public bool Move(char[,] map)
+        public bool Cove(char[,] map)
         {
             int newX = X, newY = Y;
 
