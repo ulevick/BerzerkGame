@@ -5,7 +5,7 @@ namespace BarzerkGame
     public class Bullet : GameObject
     {
         private readonly Direction direction;
-
+  
         public Bullet(int x, int y, Direction direction) : base(x, y)
         {
             this.direction = direction;
