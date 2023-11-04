@@ -1,0 +1,15 @@
+C:\Users\delllass\OneDrive - Vilniaus Gedimino technikos universitetas\Darbalaukis\Berzerk\BerzerkGame\BerzerkGame\bin\Debug\net6.0\BerzerkGame.exe
+C:\Users\delllass\OneDrive - Vilniaus Gedimino technikos universitetas\Darbalaukis\Berzerk\BerzerkGame\BerzerkGame\bin\Debug\net6.0\BerzerkGame.deps.json
+C:\Users\delllass\OneDrive - Vilniaus Gedimino technikos universitetas\Darbalaukis\Berzerk\BerzerkGame\BerzerkGame\bin\Debug\net6.0\BerzerkGame.runtimeconfig.json
+C:\Users\delllass\OneDrive - Vilniaus Gedimino technikos universitetas\Darbalaukis\Berzerk\BerzerkGame\BerzerkGame\bin\Debug\net6.0\BerzerkGame.dll
+C:\Users\delllass\OneDrive - Vilniaus Gedimino technikos universitetas\Darbalaukis\Berzerk\BerzerkGame\BerzerkGame\bin\Debug\net6.0\BerzerkGame.pdb
+C:\Users\delllass\OneDrive - Vilniaus Gedimino technikos universitetas\Darbalaukis\Berzerk\BerzerkGame\BerzerkGame\obj\Debug\net6.0\BerzerkGame.csproj.AssemblyReference.cache
+C:\Users\delllass\OneDrive - Vilniaus Gedimino technikos universitetas\Darbalaukis\Berzerk\BerzerkGame\BerzerkGame\obj\Debug\net6.0\BerzerkGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delllass\OneDrive - Vilniaus Gedimino technikos universitetas\Darbalaukis\Berzerk\BerzerkGame\BerzerkGame\obj\Debug\net6.0\BerzerkGame.AssemblyInfoInputs.cache
+C:\Users\delllass\OneDrive - Vilniaus Gedimino technikos universitetas\Darbalaukis\Berzerk\BerzerkGame\BerzerkGame\obj\Debug\net6.0\BerzerkGame.AssemblyInfo.cs
+C:\Users\delllass\OneDrive - Vilniaus Gedimino technikos universitetas\Darbalaukis\Berzerk\BerzerkGame\BerzerkGame\obj\Debug\net6.0\BerzerkGame.csproj.CoreCompileInputs.cache
+C:\Users\delllass\OneDrive - Vilniaus Gedimino technikos universitetas\Darbalaukis\Berzerk\BerzerkGame\BerzerkGame\obj\Debug\net6.0\BerzerkGame.dll
+C:\Users\delllass\OneDrive - Vilniaus Gedimino technikos universitetas\Darbalaukis\Berzerk\BerzerkGame\BerzerkGame\obj\Debug\net6.0\refint\BerzerkGame.dll
+C:\Users\delllass\OneDrive - Vilniaus Gedimino technikos universitetas\Darbalaukis\Berzerk\BerzerkGame\BerzerkGame\obj\Debug\net6.0\BerzerkGame.pdb
+C:\Users\delllass\OneDrive - Vilniaus Gedimino technikos universitetas\Darbalaukis\Berzerk\BerzerkGame\BerzerkGame\obj\Debug\net6.0\BerzerkGame.genruntimeconfig.cache
+C:\Users\delllass\OneDrive - Vilniaus Gedimino technikos universitetas\Darbalaukis\Berzerk\BerzerkGame\BerzerkGame\obj\Debug\net6.0\ref\BerzerkGame.dll
